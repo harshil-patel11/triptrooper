@@ -10,7 +10,7 @@ Additionally, travel groups can utilize the group feature to join groups and col
 
 Frontend - Android (Java)
 
-Backend - JavaScript
+Backend - JavaScript (ES6)
 
 # Frontend Instructions
 
